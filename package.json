@@ -1,0 +1,23 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.1",
+  "description": "Node Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "yes"
+  ],
+  "author": "author",
+  "license": "ISC",
+  "dependencies": {
+    "connect-history-api-fallback": "^2.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}

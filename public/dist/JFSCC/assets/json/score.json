@@ -1,0 +1,63 @@
+{
+    "statusCode": 0,
+    "message": "Y",
+    "result": [
+        {
+            "foid": "2",
+            "mobileNumber": null,
+            "state": null,
+            "foName": null,
+            "foScore": 625.0
+        },
+        {
+            "foid": "5",
+            "mobileNumber": "9677279873",
+            "state": "Tamil Nadu",
+            "foName": "Test FO",
+            "foScore": 332.5
+        },
+        {
+            "foid": "7",
+            "mobileNumber": "9581792717",
+            "state": "Bihar",
+            "foName": "sandhya",
+            "foScore": 47.5
+        },
+        {
+            "foid": "36",
+            "mobileNumber": null,
+            "state": null,
+            "foName": null,
+            "foScore": 0.0
+        },
+        {
+            "foid": "2",
+            "mobileNumber": null,
+            "state": null,
+            "foName": null,
+            "foScore": 625.0
+        },
+        {
+            "foid": "5",
+            "mobileNumber": "9677279873",
+            "state": "Tamil Nadu",
+            "foName": "Test FO",
+            "foScore": 332.5
+        },
+        {
+            "foid": "7",
+            "mobileNumber": "9581792717",
+            "state": "Bihar",
+            "foName": "sandhya",
+            "foScore": 47.5
+        },
+        {
+            "foid": "36",
+            "mobileNumber": null,
+            "state": null,
+            "foName": null,
+            "foScore": 0.0
+        }
+        
+    ]
+}
